@@ -5,7 +5,7 @@ This project aims to predict stock prices for Apple In using machine learning te
 
 ## Dataset
 - **Source**: Yahoo Finance API
-- **Time Range**: 200) - 2025
+- **Time Range**: 2000 - 2025
 - **Features Used**:
   - **Closing Price**
   - **Rolling Averages (2-day, 5-day, 60-day, 250-day, 1000-day)**
